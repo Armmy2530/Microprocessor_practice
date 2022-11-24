@@ -1,3 +1,6 @@
+// Author: Armmy2530
+// Create Time:24/11/2022 19:52
+
 int input_int = 0;
 int playpause = 0;
 int current_state[6] = {0, 0, 0, 0, 0, 0};
