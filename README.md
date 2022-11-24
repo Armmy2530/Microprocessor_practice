@@ -1,4 +1,4 @@
-# Microprocessor practice
+# Microprocessor Practice
 สวัสดีทุกคน ที่นี้คือที่เก็บ Code เกี่ยวกับวิชาMicroprocessorทุกอันที่เรียนในห้องรวมถึงงานทุกสัปดาห์อีกด้วย
 ขอให้ทุกคนสนุกกับการแกะโค้ดของผมนะครับ
 
