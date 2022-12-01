@@ -9,4 +9,4 @@
  - [Work 3 3Pattern and Pause led](https://github.com/Armmy2530/Microprocessor_practice/blob/main/Week1/Work3/Pattern%20and%20Pause%20led.ino)
 
 ### Week 2
- - [Release at 1/12/22 15.30]
+ - Release at 1/12/22 15.30
