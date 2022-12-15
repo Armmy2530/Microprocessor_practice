@@ -15,8 +15,3 @@
  - [Work 1 Counter](https://github.com/Armmy2530/Microprocessor_practice/blob/main/Week3/Work1/Work1.ino)
  - [Work 2 Interrupt counter](https://github.com/Armmy2530/Microprocessor_practice/blob/main/Week3/Work2/Work2.ino)
  - [Work 3 RGB poten](https://github.com/Armmy2530/Microprocessor_practice/blob/main/Week3/Work3/Work3.ino)
-### Week 4
- - [Work 1 7 segment counter](https://github.com/Armmy2530/Microprocessor_practice/blob/main/Week4/Work1/Work1.ino)
- - [Work 2 Scoll left I2C LCD](https://github.com/Armmy2530/Microprocessor_practice/blob/main/Week4/Work2/Work2.ino)
- - [Work 3 Sensor Serial moniotor and brightness meter](https://github.com/Armmy2530/Microprocessor_practice/blob/main/Week4/Work3/Work3.ino)
- - [Work 4 Sensor using LCD i2c with timer](https://github.com/Armmy2530/Microprocessor_practice/blob/main/Week4/Work4/Work4.ino)
