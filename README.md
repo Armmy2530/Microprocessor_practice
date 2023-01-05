@@ -24,3 +24,7 @@
  - [Work 1 Stepper motor using encoder](https://github.com/Armmy2530/Microprocessor_practice/blob/main/Week5/Work1/Work1.ino)
  - [Work 2 Stepper motor using Serial monitor](https://github.com/Armmy2530/Microprocessor_practice/blob/main/Week5/Work2/Work2.ino)
  - [Work 3 Servo poten with switch](https://github.com/Armmy2530/Microprocessor_practice/blob/main/Week5/Work3/Work3.ino)
+ ### Week 6
+ - [Work 1 nothing]
+ - [Work 2 Keypad calculator with LCD](https://github.com/Armmy2530/Microprocessor_practice/blob/main/Week6/Work2/Work2.ino)
+ - [Work 3 RFID reader](https://github.com/Armmy2530/Microprocessor_practice/blob/main/Week6/Work3/Work3.ino)
