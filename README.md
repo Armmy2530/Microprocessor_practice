@@ -20,3 +20,7 @@
  - [Work 2 Scoll left I2C LCD](https://github.com/Armmy2530/Microprocessor_practice/blob/main/Week4/Work2/Work2.ino)
  - [Work 3 Sensor Serial moniotor and brightness meter](https://github.com/Armmy2530/Microprocessor_practice/blob/main/Week4/Work3/Work3.ino)
  - [Work 4 Sensor using LCD i2c with timer](https://github.com/Armmy2530/Microprocessor_practice/blob/main/Week4/Work4/Work4.ino)
+ ### Week 5
+ - [Work 1 Stepper motor using encoder](https://github.com/Armmy2530/Microprocessor_practice/blob/main/Week5/Work1/Work1.ino)
+ - [Work 2 Stepper motor using Serial monitor](https://github.com/Armmy2530/Microprocessor_practice/blob/main/Week5/Work2/Work2.ino)
+ - [Work 3 Servo poten with switch](https://github.com/Armmy2530/Microprocessor_practice/blob/main/Week5/Work3/Work3.ino)
