@@ -28,3 +28,8 @@
  - [Work 1 nothing]
  - [Work 2 Keypad calculator with LCD](https://github.com/Armmy2530/Microprocessor_practice/blob/main/Week6/Work2/Work2.ino)
  - [Work 3 RFID reader](https://github.com/Armmy2530/Microprocessor_practice/blob/main/Week6/Work3/Work3.ino)
+
+ ### Week 7
+ - [Work 1 LED switch](https://github.com/Armmy2530/Microprocessor_practice/blob/main/Week7/Work1/Work1.ino)
+ - [Work 2 RGB poten](https://github.com/Armmy2530/Microprocessor_practice/blob/main/Week7/Work2/Work2.ino)
+ - [Work 3 Toggle led through Serial Monitor](https://github.com/Armmy2530/Microprocessor_practice/blob/main/Week7/Work3/Work3.ino)

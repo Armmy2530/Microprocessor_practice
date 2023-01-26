@@ -1,0 +1,4 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "Week1\\Work2\\Toggle led through Serial Monitor.ino"
+}
