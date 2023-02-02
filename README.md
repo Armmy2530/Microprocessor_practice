@@ -33,3 +33,7 @@
  - [Work 1 LED switch](https://github.com/Armmy2530/Microprocessor_practice/blob/main/week7/Work1/Work1.ino)
  - [Work 2 RGB poten](https://github.com/Armmy2530/Microprocessor_practice/blob/main/week7/Work2/Work2.ino)
  - [Work 3 Toggle led through Serial Monitor](https://github.com/Armmy2530/Microprocessor_practice/blob/main/week7/Work3/Work3.ino)
+
+ - ### Week 8
+ - [Work 1 Serial pwm_led](https://github.com/Armmy2530/Microprocessor_practice/blob/main/Week8/Work1)
+ - [Work 2 Serial dht lcd](https://github.com/Armmy2530/Microprocessor_practice/blob/main/Week8/Work2)
