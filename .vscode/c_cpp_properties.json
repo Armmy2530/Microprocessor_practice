@@ -21,9 +21,7 @@
                 "C:\\Users\\Armmy_Laptop\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.1\\tools\\sdk\\lwip2\\include",
                 "C:\\Users\\Armmy_Laptop\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.1\\cores\\esp8266",
                 "C:\\Users\\Armmy_Laptop\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.1\\variants\\nodemcu",
-                "C:\\Users\\Armmy_Laptop\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.1\\libraries\\SoftwareSerial\\src",
-                "C:\\Users\\Armmy_Laptop\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.1\\libraries\\Wire",
-                "C:\\Users\\Armmy_Laptop\\Documents\\Arduino\\libraries\\LiquidCrystal_I2C"
+                "C:\\Users\\Armmy_Laptop\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.1\\libraries\\ESP8266WiFi\\src"
             ],
             "forcedInclude": [
                 "C:\\Users\\Armmy_Laptop\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.1\\cores\\esp8266\\Arduino.h"
@@ -44,11 +42,12 @@
                 "LWIP_FEATURES=1",
                 "LWIP_IPV6=0",
                 "ARDUINO=10819",
-                "ARDUINO_ESP8266_NODEMCU_ESP12",
+                "ARDUINO_ESP8266_NODEMCU_ESP12E",
                 "ARDUINO_ARCH_ESP8266",
-                "ARDUINO_BOARD=\"ESP8266_NODEMCU_ESP12\"",
-                "ARDUINO_BOARD_ID=\"nodemcu\"",
-                "FLASHMODE_QIO",
+                "ARDUINO_BOARD=\"ESP8266_NODEMCU_ESP12E\"",
+                "ARDUINO_BOARD_ID=\"nodemcuv2\"",
+                "LED_BUILTIN=2",
+                "FLASHMODE_DIO",
                 "USBCON"
             ]
         }
